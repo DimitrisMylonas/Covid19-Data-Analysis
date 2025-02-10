@@ -14,7 +14,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 2️ Age Distribution of Survivors vs. Non-Survivors
+## 2 Age Distribution of Survivors vs. Non-Survivors
 
 **Analysis:**
 - Non-survivors (red boxplot) tend to be significantly older compared to survivors.
@@ -25,7 +25,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 3️ Diabetes and ICU Admission
+## 3 Diabetes and ICU Admission
 
 **Analysis:**
 - Most of the patients **do not** have diabetes.
@@ -34,7 +34,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 4️ 3D Scatter Plot: Age, ICU Admission & Diabetes
+## 4 3D Scatter Plot: Age, ICU Admission & Diabetes
 
 **Analysis:**
 - This visualization shows that ICU admissions (Z-axis) and diabetes status (Y-axis) are correlated.
@@ -43,7 +43,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 5️ 3D Scatter Plot: Age, ICU Admission & Mortality
+## 5 3D Scatter Plot: Age, ICU Admission & Mortality
 
 **Analysis:**
 - Red points represent deceased patients, while blue represents survivors.
@@ -52,7 +52,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 6️ Correlation Heatmap with Mortality
+## 6 Correlation Heatmap with Mortality
 
 **Analysis:**
 - The strongest correlation with mortality is **ICU admission** and **intubation**.
@@ -61,7 +61,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 7️ Sunburst Chart: ICU Admissions, Comorbidities & Mortality
+## 7 Sunburst Chart: ICU Admissions, Comorbidities & Mortality
 
 **Analysis:**
 - The chart illustrates the distribution of ICU admissions among patients with different comorbidities.
@@ -70,7 +70,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 8️ Ridgeline Plot: Age Distribution by Mortality
+## 8 Ridgeline Plot: Age Distribution by Mortality
 
 **Analysis:**
 - The age distribution of survivors (blue) peaks around 40 years.
@@ -79,7 +79,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 9️ 3D Surface Plot: Age & Mortality Rate
+## 9 3D Surface Plot: Age & Mortality Rate
 
 **Analysis:**
 - This visualization further highlights how mortality rates increase with age.

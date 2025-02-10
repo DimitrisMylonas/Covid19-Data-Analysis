@@ -21,8 +21,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 - Survivors have a median age of around 40, while non-survivors' median age is around 60+.
 - The presence of outliers in both groups suggests cases of mortality among younger individuals as well, although less frequent.
 
-**Conclusion:** Age is a critical factor influencing mortality, with older individuals being at significantly higher risk.
-
 ---
 
 ## 3 Diabetes and ICU Admission

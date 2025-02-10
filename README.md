@@ -6,7 +6,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 1 Age Distribution of Patients
-![Age Distribution](file-KivDhqPTj238pYnb2ZADaF)
 
 **Analysis:**
 - The age distribution is right-skewed, with a peak around 30-40 years.
@@ -16,7 +15,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 2️ Age Distribution of Survivors vs. Non-Survivors
-![Age vs Mortality](file-Bpg19xVSDS4rN5XvYVnKFN)
 
 **Analysis:**
 - Non-survivors (red boxplot) tend to be significantly older compared to survivors.
@@ -28,7 +26,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 3️ Diabetes and ICU Admission
-![Diabetes & ICU](file-QxoR8M39EFzd4NUSUHFPag)
 
 **Analysis:**
 - Most of the patients **do not** have diabetes.
@@ -38,7 +35,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 4️ 3D Scatter Plot: Age, ICU Admission & Diabetes
-![3D Scatter - ICU, Diabetes, Age](file-9VHw2eTWRsKoSpzJuzDhZa)
 
 **Analysis:**
 - This visualization shows that ICU admissions (Z-axis) and diabetes status (Y-axis) are correlated.
@@ -48,7 +44,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 5️ 3D Scatter Plot: Age, ICU Admission & Mortality
-![3D Scatter - ICU & Mortality](file-Sym63v3skECpe5nYALscpm)
 
 **Analysis:**
 - Red points represent deceased patients, while blue represents survivors.
@@ -58,7 +53,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 6️ Correlation Heatmap with Mortality
-![Heatmap](file-5C1pQtuaDLgjA9cjokE7G2)
 
 **Analysis:**
 - The strongest correlation with mortality is **ICU admission** and **intubation**.
@@ -68,7 +62,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 7️ Sunburst Chart: ICU Admissions, Comorbidities & Mortality
-![Sunburst](file-QbLyTkgL83sTaSy3QJk8ax)
 
 **Analysis:**
 - The chart illustrates the distribution of ICU admissions among patients with different comorbidities.
@@ -78,7 +71,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 8️ Ridgeline Plot: Age Distribution by Mortality
-![Ridgeline Plot](file-HoT4euKMzaNpWWurAJyYau)
 
 **Analysis:**
 - The age distribution of survivors (blue) peaks around 40 years.
@@ -88,7 +80,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 9️ 3D Surface Plot: Age & Mortality Rate
-![3D Surface](file-LAyDayQV9eWi1hc3Cyp6tp)
 
 **Analysis:**
 - This visualization further highlights how mortality rates increase with age.
@@ -97,7 +88,6 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 ---
 
 ## 10 Stacked Bar Chart: Comorbidities & Mortality
-![Comorbidities vs Mortality](file-3joEG3xSgYY9Et1zx59PnB)
 
 **Analysis:**
 - This chart shows that conditions like diabetes, hypertension, and obesity are common among both survivors and non-survivors.
@@ -106,8 +96,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 11️ KDE Plot: Age Distribution by Survival
-![KDE Plot](file-1wZzxxNmyx9BNpd25CYbBj)
+## 11 KDE Plot: Age Distribution by Survival
 
 **Analysis:**
 - The distribution shows a clear separation between survivors and non-survivors.
@@ -115,8 +104,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 12️ Mortality Rate per Age Group
-![Mortality Rate](file-Qk2jgajEqKZqP2Cr7cNXJ2)
+## 12 Mortality Rate per Age Group
 
 **Analysis:**
 - Mortality rates are minimal for younger age groups.
@@ -124,8 +112,7 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 13️ Parallel Coordinates: ICU, Comorbidities & Mortality
-![Parallel Coordinates](file-CkSKVPFbNuCoJj48x8w4YN)
+## 13 Parallel Coordinates: ICU, Comorbidities & Mortality
 
 **Analysis:**
 - This plot highlights how different features correlate with mortality.
@@ -133,32 +120,28 @@ This report provides an in-depth analysis of COVID-19 patient data through vario
 
 ---
 
-## 14️ Feature Importance (Logistic Regression)
-![Feature Importance](file-97oD2LmPcNkMx4WFC41zuE)
+## 14 Feature Importance (Logistic Regression)
 
 **Analysis:**
 - Age is the most important predictor of mortality, followed by diabetes and ICU admission.
 
 ---
 
-## 15️ Network Graph of Key Feature Correlations
-![Network Graph](file-E99Q7Wz2kh8SBFb9xRs5VD)
+## 15 Network Graph of Key Feature Correlations
 
 **Analysis:**
 - Shows clusters of interconnected features related to mortality and comorbidities.
 
 ---
 
-## 16️ Animated Time-Series: COVID-19 Deaths Over Time
-![Animated Time-Series](file-C5ysjeFEmuqxGaDhECnEPx)
+## 16 Animated Time-Series: COVID-19 Deaths Over Time
 
 **Analysis:**
 - Displays trends in mortality over time, capturing peaks during outbreak waves.
 
 ---
 
-## 17️ Heatmap of COVID-19 Mortality Over Time
-![Heatmap Mortality](file-5qG1NTmzyo1M7mAWvuSvge)
+## 17 Heatmap of COVID-19 Mortality Over Time
 
 **Analysis:**
 - Highlights mortality peaks and their temporal distribution.
